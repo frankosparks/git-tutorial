@@ -1,4 +1,6 @@
 commit 1-FEATURE
 commit 2-FEATURE
 commit3
-conflict 2
+
+conflict 1
+
